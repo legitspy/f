@@ -1,0 +1,8 @@
+{
+  "name": "BitPrivacy - Smart Wallet",
+  "description": "A smart wallet web application with Firebase Authentication, a 2FA system using a predetermined code, and a static Google Sheets database for user profiles and transactions. The app features a responsive dashboard with wallet balance and transaction history.",
+  "requestFramePermissions": [],
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#111827"
+}
