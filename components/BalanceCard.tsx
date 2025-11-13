@@ -42,9 +42,9 @@ const BalanceCard: React.FC<BalanceCardProps> = ({ balance, btcToUsdRate, isLoad
     return (
         <div className="bg-gray-900 rounded-2xl border border-gray-800 p-6 text-center">
             <p className="text-sm font-medium text-gray-400 mb-1">Total Balance</p>
-            <div className="text-5xl font-bold text-white tracking-tight">
+            <div className="text-3xl sm:text-4xl md:text-5xl font-bold text-white tracking-tight break-all">
                 {balance.toFixed(8)}
-                <span className="text-3xl font-medium text-gray-400 ml-2">BTC</span>
+                <span className="text-xl sm:text-2xl md:text-3xl font-medium text-gray-400 ml-1 sm:ml-2">BTC</span>
             </div>
             {btcToUsdRate !== null && (
                 <p className="text-lg text-gray-400 mt-1">
