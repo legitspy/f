@@ -1,0 +1,21 @@
+{
+  "name": "BitPrivacy",
+  "short_name": "BitPrivacy",
+  "description": "A modern React + TypeScript + Tailwind web app.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
