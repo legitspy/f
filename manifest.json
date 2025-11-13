@@ -1,25 +1,4 @@
 {
-  "name": "My React App",
-  "short_name": "ReactApp",
-  "description": "A modern React + TypeScript + Tailwind web app.",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0f172a",
-  "icons": [
-    {
-      "src": "logo.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "favicon.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon"
-    }
-  ]
-}
-[3:15 AM, 11/13/2025] Frank: {
   "name": "BitPrivacy",
   "short_name": "BitPrivacy",
   "description": "A privacy-focused web app built with React, TypeScript, and Tailwind CSS.",
